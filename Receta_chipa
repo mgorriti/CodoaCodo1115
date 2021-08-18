@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera página</title>
+</head>
+<body>
+   <h1><b>Receta Chipá en 10 minutos</b></h1>
+   
+   <p><b>Bienvenido,</b></p>
+<p>Estás en la página <b>Comida en simples pasos</b>.</p>
+<p>Aquí aprenderás recetas fáciles y rápidas.</p>
+
+<h2>Para ésta receta vamos a necesitar los siguientes <br>
+<b>INGREDIENTES:</b></h2>
+<ul>
+    <li>300 gr Harina de Mandioca</li>
+    <li>200 gr Quesos <i>(Puedes mezclar duros y blandos)</i></li>
+    <li>2 Huevos</li>
+    <li>50 gr de Manteca</li>
+    <li>1 cucharadita de Sal</li>
+    <li>1 cucharada de Polvo para Hornear</li>
+    <li>50 ml de Leche</li>
+</ul>
+
+<h3>Ahora sigamos los siguientes pasos:</h3>
+<ol>
+    <li>Primero que nada, prendemos el horno en <b>200 C°</b><br>
+    Así se precalienta mientras hacemos el resto de los pasos.<br>
+<i>(Si no tenes control de temperatura, es un horno medio-caliente)</i></li><br>
+<li>En un bowl, unimos todos los ingredientes secos. <br> <i>La Harina de Mandioca
+    Polvo para Hornear y la Sal
+</i></li><br>
+<li>A esa mezcla le agregamos los ingredientes húmedos. <b>(MENOS EL QUESO)</b> <br>
+<i>Huevos, Manteca y Leche</i></li><br>
+<li>Mezclamos todo hasta formar una masa uniforme.<br>
+    Para que no se te pegue en las manos, usamos presion con la palma
+
+</li><br>
+<li>Sumamos el queso, previamente cortado o rayado, e incorporamos a la mezcla. <br>
+En caso de ser un queso blando se recomienda no usar mucha presión <br>
+para que no se nos desarme y se pierda en la masa.</li><br>
+<li>Formamos bolitas del tamaño que quieran, buscando que sean lo más parecidas <br>
+para que se cocinen parejas. Las colocamos en una placa para horno con una <br>
+distancia de por lo menos un dedo</li><br>
+<li>Llevamos al horno por 15/20 minutos, dependiendo de cómo te gusten.</li><br>
+<li>Sacalos del horno, <b>COMELOS, DISFRUTALOS</b> y cuidado no te quemes por ansioso!</li><br>
+</ol>
+</body>
+</html>
